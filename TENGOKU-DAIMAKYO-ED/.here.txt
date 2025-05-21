@@ -1,0 +1,16 @@
+{
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "category": "2",
+  "title": "TV Anime \"TENGOKU-DAIMAKYO\" Ending Theme: Dare mo Kare mo Doko mo Nani mo Shiranai",
+  "author": "ASOBI Doumei",
+  "disc": "0",
+  "music_name_index": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": []
+  }
+}

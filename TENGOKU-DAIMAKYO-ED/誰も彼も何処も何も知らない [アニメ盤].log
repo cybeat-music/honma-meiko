@@ -1,0 +1,115 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-08-23 21:49:08 -0400
+
+ASOBI同盟 / 誰も彼も何処も何も知らない [アニメ盤]
+
+Used drive : HL-DT-ST BD-RE WP50NB40 (revision 1.03)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:43:00 |         0    |    16724   
+        2  | 03:43:00 | 02:03:00 |     16725    |    25949   
+        3  | 05:46:00 | 01:32:00 |     25950    |    32849   
+        4  | 07:18:00 | 03:38:20 |     32850    |    49219   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Album gain               : -7.05 dB
+    Peak                     : 0.999969
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/RIPS/ASOBI同盟 - 誰も彼も何処も何も知らない [アニメ盤] [FLAC]/01 誰も彼も何処も何も知らない.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -7.94 dB
+    Peak                     : 0.999969
+    CRC32 hash (test run)    : 19CC1556
+    CRC32 hash               : 19CC1556
+    CRC32 hash (skip zero)   : D4A819FB
+    AccurateRip v1 signature : C9BECB3D
+    AccurateRip v2 signature : A1A1A068
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/RIPS/ASOBI同盟 - 誰も彼も何処も何も知らない [アニメ盤] [FLAC]/02 誰も彼も何処も何も知らない (#08 Special Arrange).flac
+    Pre-gap length : 00:02:56
+
+    Track gain               : -3.83 dB
+    Peak                     : 0.986816
+    CRC32 hash (test run)    : 4A14CAE3
+    CRC32 hash               : 4A14CAE3
+    CRC32 hash (skip zero)   : 33DA943F
+    AccurateRip v1 signature : 3681A774
+    AccurateRip v2 signature : ED423A0D
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/RIPS/ASOBI同盟 - 誰も彼も何処も何も知らない [アニメ盤] [FLAC]/03 誰も彼も何処も何も知らない (TV Size).flac
+    Pre-gap length : 00:02:56
+
+    Track gain               : -7.84 dB
+    Peak                     : 0.999969
+    CRC32 hash (test run)    : 63ED164D
+    CRC32 hash               : 63ED164D
+    CRC32 hash (skip zero)   : DCF0E80B
+    AccurateRip v1 signature : 94A943D3
+    AccurateRip v2 signature : 5951745A
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/RIPS/ASOBI同盟 - 誰も彼も何処も何も知らない [アニメ盤] [FLAC]/04 誰も彼も何処も何も知らない (Instrumental).flac
+    Pre-gap length : 00:02:56
+
+    Track gain               : -6.69 dB
+    Peak                     : 0.999969
+    CRC32 hash (test run)    : 32A1FC3D
+    CRC32 hash               : 32A1FC3D
+    CRC32 hash (skip zero)   : F9C4E9F7
+    AccurateRip v1 signature : F039A334
+    AccurateRip v2 signature : B6D11D2D
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+Bl.JA611d.QfohJy4IQJ_ktyfkI_vyDzGAzLErDJsOAWT_.Zbz0Q0ewjsmC13_G6RABl.INseyuFPAFOlGaV5SGTApYWdNQ5WsjOSNO
+-----END XLD SIGNATURE-----
