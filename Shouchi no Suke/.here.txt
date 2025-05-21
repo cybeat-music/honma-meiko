@@ -1,0 +1,16 @@
+{
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "category": "2",
+  "title": "One Piece Ending 04 Single - Shouchi no Suke",
+  "author": "Suitei Shoujo",
+  "disc": "0",
+  "music_name_index": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": []
+  }
+}
